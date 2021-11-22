@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## The Hera Programming Language
 
 You can use the [editor on GitHub](https://github.com/HeraLab/Hera-Lang/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
